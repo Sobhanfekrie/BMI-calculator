@@ -1,6 +1,3 @@
-# BMI-calculator
-A simple BMI calculator written in C with support for English and Persian language selection.
-
 # BMI Checker (C)
 
 A simple C program to calculate Body Mass Index (BMI) and classify health status.
@@ -14,13 +11,11 @@ A simple C program to calculate Body Mass Index (BMI) and classify health status
   - Overweight
   - Obese
 - Lightweight and fast (written in C).
-- Runs in any standard terminal.
+- Runs in any standard terminal. 
+Made by sobhan fekrie
 
-## Usage
-Compile the program:
-```bash
-gcc bmi_checker.c -o bmi_checker
- BMI Checker (C)
+
+# BMI Checker (C)
 
 یک برنامه‌ی ساده به زبان C برای محاسبه‌ی شاخص توده‌ی بدنی (BMI) و نمایش وضعیت سلامتی.
 
@@ -32,4 +27,4 @@ gcc bmi_checker.c -o bmi_checker
   - وزن نرمال
   - اضافه‌وزن
   - چاق
-- سبک و سریع 
+- سبک و سریع
